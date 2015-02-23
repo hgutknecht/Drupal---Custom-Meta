@@ -1,5 +1,8 @@
-Drupal--Custom-Meta
+Custom-Meta
 ====================
+## Custom Meta module for Drupal 6 and 7
+
+[Project page on d.o](https://www.drupal.org/project/custom_meta)
 
 While Nodewords (D6) and Metatags (D7) work well for adding things like Abstract, Description, Keywords, Robots, Copyright and even OpenGraph meta tags to your content. We continually found ourselves backed into a situation where we would have to release a tpl.php update or write a custom module to inject custom meta elements onto our platform.
 
