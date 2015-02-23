@@ -12,6 +12,6 @@ The module allows you to define and manage custom meta tags. Simply select the M
 
 I'd be happy to iterate on this and add additional functionality just leave a note in the issue queue if you have a feature request.
 
-Token Support
+*Token Support*
 
 As of 7.x-1.4, Custom Meta supports token replacement. Enable the token module and select "Browse available tokens" on the administration page.
