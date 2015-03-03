@@ -1,0 +1,8 @@
+name: Custom Meta
+description: Allows adding custom meta tags to the head of every page of your site.
+package: Custom
+type: module
+core: 8.x
+dependencies:
+  - node
+configure: custom_meta.admin_index
